@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv
+venv/
+
+# NOT ignoring models — they must be committed for cloud deployment
+# models/*.pkl   <-- DO NOT add this line
+
+# Large files you don't need on GitHub
+reports/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
