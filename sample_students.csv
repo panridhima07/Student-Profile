@@ -1,0 +1,11 @@
+study_hours_per_day,attendance_pct,prev_semester_marks,assignment_completion_pct,num_subjects,sleep_hours,extracurricular,internet_access,family_income_level,parental_education,mental_health_score,peer_group_quality,teacher_quality,library_visits_per_week,online_courses,part_time_job,travel_time_hours
+7.5,92,85,95,5,7.5,1,1,High,Graduate,8,8,9,3,2,0,0.5
+3.0,65,55,60,6,6.0,0,1,Low,Secondary,5,5,6,1,0,1,1.5
+5.0,78,70,80,5,7.0,1,1,Medium,Graduate,7,7,8,2,1,0,0.75
+2.0,50,40,45,7,5.0,0,0,Low,Primary,4,4,5,0,0,1,2.0
+8.0,95,90,98,4,8.0,1,1,High,Postgrad,9,9,9,5,3,0,0.25
+4.5,72,62,70,6,6.5,0,1,Medium,Secondary,6,6,7,1,1,0,1.0
+1.5,45,35,40,8,5.5,0,0,Low,None,3,3,4,0,0,1,2.5
+6.0,85,78,88,5,7.5,1,1,Medium,Graduate,8,7,8,3,2,0,0.5
+3.5,68,58,65,7,6.0,0,1,Low,Secondary,5,5,6,1,0,1,1.25
+9.0,98,95,100,4,8.5,1,1,High,Postgrad,9,9,10,6,4,0,0.0
